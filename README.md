@@ -1,43 +1,67 @@
-# Formation sur Material-UI
+# Formation MUI de A à Z
 
-## Description
-Ce référentiel contient des ressources et des exemples pour une formation complète sur Material-UI, une bibliothèque de composants React basée sur Material Design.
+## 📚 Description
 
-## Contenu
+La création d'interfaces utilisateurs modernes, réactives et accessibles dans React peut être un processus long et complexe, mais avec Material-UI (MUI), vous pouvez accélérer considérablement ce processus tout en garantissant une qualité de conception professionnelle.
 
-1. **Introduction à Material-UI**
-   - Qu'est-ce que Material-UI ?
-   - Avantages de l'utilisation de Material-UI par rapport aux autres bibliothèques de composants.
-   - Installation et configuration de Material-UI dans un projet React.
+Cette formation complète vous offre une maîtrise totale de MUI, l'une des bibliothèques les plus populaires et puissantes pour React. À travers cette formation, vous apprendrez à exploiter toute la richesse de MUI pour créer des interfaces élégantes et fonctionnelles, en utilisant ses composants prêts à l'emploi, ses systèmes de personnalisation, et ses meilleures pratiques.
 
-2. **Composants de base**
-   - Utilisation des composants de base fournis par Material-UI (boutons, formulaires, typographie, etc.).
-   - Personnalisation des composants avec les thèmes et les styles.
+Vous découvrirez comment :
+- Intégrer MUI dans vos projets React
+- Personnaliser les thèmes
+- Gérer les layouts responsives
+- Optimiser l'accessibilité de vos applications
 
-3. **Composants avancés**
-   - Exploration des composants avancés tels que les grilles, les listes, les onglets, les modales, etc.
-   - Utilisation des Hooks spécifiques à Material-UI.
+## 🎯 Objectifs
 
-4. **Thèmes et personnalisation**
-   - Création et personnalisation de thèmes Material-UI.
-   - Utilisation des palettes de couleurs, des typographies et des styles globaux.
+À l'issue de cette formation, vous serez capable de concevoir des interfaces de haute qualité avec MUI, de la simple page aux applications plus élaborées, tout en maintenant une expérience utilisateur fluide et cohérente.
 
-5. **Intégration avec React et autres bibliothèques**
-   - Utilisation de Material-UI avec React Router et autres bibliothèques tierces.
-   - Intégration avec des états de gestion tels que Redux ou Zustand.
+## 📑 Structure du Projet
 
-6. **Optimisation et bonnes pratiques**
-   - Techniques pour optimiser les performances avec Material-UI.
-   - Bonnes pratiques pour l'organisation et la gestion des composants.
+Le projet est organisé dans le dossier `src/components` avec un dossier dédié pour chaque chapitre.
 
-7. **Exemples pratiques**
-   - Exemples de projets pratiques pour illustrer l'utilisation des différents composants et fonctionnalités de Material-UI.
+## 📖 Chapitres
 
-8. **Ressources supplémentaires**
-   - Liens vers des articles, des tutoriels et des outils utiles sur Material-UI.
+| N° | Chapitre | Description |
+|----|----------|-------------|
+| 01 | Introduction à MUI | Présentation générale |
+| 02 | Introduction à MUI + SeTuP | Configuration initiale |
+| 03 | Typography | Gestion des textes et typographie |
+| 04 | Buttons | Composants boutons |
+| 05 | ButtonsGroup | Groupes de boutons |
+| 06 | Toggle | Interrupteurs et bascules |
+| 07 | Rating | Système de notation |
+| 08 | Autocomplete | Champs avec autocomplétion |
+| 09 | Box | Conteneur flexible |
+| 10 | Stack | Empilage d'éléments |
+| 11 | Grid | Système de grille |
+| 12 | Card | Cartes et contenus |
+| 13 | Accordion | Panneaux dépliants |
+| 14 | Galerie images | Gestion des galeries photos |
+| 15 | Navbar | Barre de navigation |
+| 16 | Link | Gestion des liens |
+| 17 | Breadcrumb | Fil d'Ariane |
+| 18 | Menu | Menus standards |
+| 19 | Menu mobile | Menus adaptés mobile |
+| 20 | SpeedDial | Menu d'actions rapides |
+| 21 | NavBottom | Navigation inférieure |
+| 22 | Avatar | Gestion des avatars |
+| 23 | Badges | Badges et notifications |
+| 24 | List | Listes et éléments |
+| 25 | Chip | Étiquettes interactives |
+| 26 | ToolTip | Info-bulles |
+| 27 | Table | Tables et données |
+| 28 | Alert | Alertes et notifications |
+| 29 | Snackbar | Messages temporaires |
+| 30 | Boites de dialogue | Modales et dialogues |
+| 31 | Progress | Barres de progression |
+| 32 | Skeleton | Chargement progressif |
+| 33 | Button loader | Boutons avec états de chargement |
 
-## Contribution
-Ce référentiel est destiné à des fins éducatives seulement. Les contributions directes ne sont pas acceptées.
+## 🔗 Ressources
 
-## Licence
-Ce projet est sous licence [MIT](LICENSE).
+Cette formation est disponible sur [La Minute De Code](https://www.laminutedecode.com/formations/MUI)
+
+## 📝 License
+
+© 2025 La Minute De Code. Tous droits réservés.
